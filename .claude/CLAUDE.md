@@ -6,6 +6,10 @@ Whenever you're responding, I want to be able to understand the general gist of 
 
 Keep explanations brief. Don't use flowery language. I prefer easy and quick to read explanations rather than extremely detailed breakdowns. If I want or need additional detail or clarification I will ask for it.
 
+## Jira tickets
+
+When writing a description in a Jira issue and you reference a section, acceptance criteria, functional requirement, or similar references, in a document like a PRD, ARD, or Solution Design, always link to the specific (or nearest) section in that document at least once. You can simply link the reference e.g. `[§5.4](http://example.com/confluence/link-to-page#link-to-section)` or to the nearest section if you're talking about a list of items in that section e.g. `[See FR section in document](http://example.com/confluence/link-to-page#link-to-nearest-section)`.
+
 ## Code Reviews
 
 When I ask you to do a review of a pull request NEVER automatically post it. I always want to verify and check your review before you post on my behalf. Even when I say things like "add your review" or similar, I still want you to verify once you've done the review that I'm happy for it to be posted.
