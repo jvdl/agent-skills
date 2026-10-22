@@ -8,6 +8,10 @@ Sometimes working with AI tooling can be exhausting, the output is verbose, they
 
 [review-breakdown](./skills/review-breakdown/) aims to break down a review by breaking the changes up in to logically chunked commits and for larger more compex changes will propose a stacked pull request.
 
+[pr-review](./skills/pr-review/) reviews someone else's pull request against its claims and ticket ACs, re-reviews addressed feedback, and triages single review comments. It never posts without your approval.
+
+[comment-triage](./skills/comment-triage/) triages review comments on your own pull request, from people and bots. It recommends fix now, fix later, or skip, then fixes, drafts replies, and checks all feedback is covered.
+
 ## Output styles
 
 Agentic output can be verbose, full of jargon, tell you lots of stuff that isn't necessarily relevant.
